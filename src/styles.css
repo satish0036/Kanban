@@ -1,0 +1,16 @@
+p {
+  font-size: 16px;
+  line-height: 28px;
+}
+.app_navbar_search {
+  display: flex;
+  float: right;
+  padding-right: 103px;
+  /* border: 2px solid red; */
+}
+.app-navbar {
+  overflow: hidden;
+  position: relative;
+  /* top: ; Position the navbar at the top of the page */
+  width: 100%;
+}

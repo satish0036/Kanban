@@ -1,0 +1,21 @@
+.card {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  gap: 185px;
+}
+.card_title {
+  font-weight: bold;
+}
+.card_top_more {
+  position: relative;
+}
+
+.card_dropdown {
+  background-color: rebeccapurple;
+  width: 130px;
+}
+.red {
+  background-color: red;
+}
